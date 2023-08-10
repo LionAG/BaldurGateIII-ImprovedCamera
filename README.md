@@ -12,3 +12,5 @@ To adjust horizontal rotation use Q and E, vertical rotation use R and F or hold
 2. Copy **ScriptEngine.exe** and **ScriptEngineGUI.exe** to the game bin directory (where the bg3_dx11.exe file is located). [(...)Steam\steamapps\common\Baldurs Gate 3\bin]
 3. Open the GUI and import **BGIII_ImprovedCamera.scrx** by clicking on the Add button.
 4. Click Run.
+
+#### Do not upload the file to other sites.
